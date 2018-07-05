@@ -4,6 +4,10 @@ Nonprofit Starter Pack - Affiliations
 The Nonprofit Starter Pack (NPSP) is available as 5 managed packages.
 This is the Affiliations package.
 
+
+
+
+
 **Affiliations**
 
 * Provides an object and logic to connect Contacts to multiple Accounts
