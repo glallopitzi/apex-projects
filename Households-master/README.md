@@ -10,6 +10,10 @@ This is the Contacts and Organizations package.
 * Extension of Contacts & Organizations
 * Handles Opportunity rollups
 
+
+
+
+
 For more information go to [http://nonprofitstarterpack.org](http://nonprofitstarterpack.org)
 
 How do I log an issue?
