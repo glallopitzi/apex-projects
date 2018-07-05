@@ -10,8 +10,3 @@ another commit
 pull request create
 
 
-
-
-
-
-something other
