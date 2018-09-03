@@ -1,3 +1,3 @@
 # README #
 
-Represents examples of apex projects.
+Represents examples of an apex projects.
