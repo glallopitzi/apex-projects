@@ -1,5 +1,3 @@
 # README #
 
-Represents examples of an apex projects.
-
-fwedszx
+Represents examples of apex projects.
