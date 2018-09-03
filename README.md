@@ -1,4 +1,3 @@
 # README #
 
-Represents examples of ancwedsxz apex projects.
-
+Represents examples of apex projects.
